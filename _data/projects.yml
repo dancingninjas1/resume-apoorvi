@@ -6,8 +6,7 @@
   #role: Founder & Primary Developer
   #duration: 2012 &mdash; Present
   # url: "#"
-  description: <ul><li>Developed a sound classification system using deep learning techniques and CNN. Employed spectrogram representations to train a highly accurate model capable of effectively classifying a wide range of audio sounds, including speech, music genres, and environmental noises.</li><li>
-Demonstrated expertise in TensorFlow by utilizing its powerful capabilities for model development, optimization, and deployment in the sound classification project. This project uses advanced audio processing techniques, such as feature extraction and data augmentation, to enhance the performance of the model and achieve superior classification accuracy.</li></ul>
+  description: <ul><li>Developed a sound classification system using deep learning techniques and CNN. Employed spectrogram representations to train a highly accurate model capable of effectively classifying a wide range of audio sounds, including speech, music genres, and environmental noises.</li><li>Demonstrated expertise in TensorFlow by utilizing its powerful capabilities for model development, optimization, and deployment in the sound classification project. This project uses advanced audio processing techniques, such as feature extraction and data augmentation, to enhance the performance of the model and achieve superior classification accuracy.</li></ul>
 
 # Springfield Community Outreach Group
 - project: MusicGAN for Generating Lofi Music using Emotions in a Poetry
