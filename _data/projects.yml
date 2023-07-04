@@ -16,7 +16,7 @@
   description: <ul class="resume-item-list"><li>Developed a MusicGAN model that employs advanced deep learning techniques, including recurrent neural networks (RNNs) and attention mechanisms, combined with natural language processing to generate emotionally resonant Lofi music based on textual input.</li><li>This project showcased a unique fusion of cutting-edge technologies and fine-tuning complex Deep Learning architectures to capture the subtle nuances of music composition.</li></ul>
 
 - project: Image Classification on MNIST Dataset
-  description:<ul class="resume-item-list"><li> Developed and implemented a robust PyTorch-based deep learning model with a CNN architecture to accurately classify handwritten digits from the MNIST dataset.</li><li> Demonstrated proficiency in Python, deep learning principles, and the PyTorch framework.</li>
+  description: <ul class="resume-item-list"><li> Developed and implemented a robust PyTorch-based deep learning model with a CNN architecture to accurately classify handwritten digits from the MNIST dataset.</li><li> Demonstrated proficiency in Python, deep learning principles, and the PyTorch framework.</li>
 
 - project: Reinforcement Learning to Play Tabletop Games
-  description:<ul class="resume-item-list"><li> Applied reinforcement learning algorithms to train an agent capable of playing tabletop games.</li><li>Implemented algorithms like Q-learning or Deep Q-Networks (DQN) to enable the agent to learn optimal strategies.</li>
+  description: <ul class="resume-item-list"><li> Applied reinforcement learning algorithms to train an agent capable of playing tabletop games.</li><li>Implemented algorithms like Q-learning or Deep Q-Networks (DQN) to enable the agent to learn optimal strategies.</li>
