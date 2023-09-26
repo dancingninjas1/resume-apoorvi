@@ -19,6 +19,11 @@
   url: "https://github.com/dancingninjas1/Music-GAN"
   description: <ul class="resume-item-list"><li>Developed a MusicGAN model that employs advanced deep learning techniques, including recurrent neural networks (RNNs) and attention mechanisms, combined with natural language processing to generate emotionally resonant Lofi music based on textual input.</li><li>This project showcased a unique fusion of cutting-edge technologies and fine-tuning complex Deep Learning architectures to capture the subtle nuances of music composition.</li></ul>
 
+- project: Sentiment-Analysis-imdb with Fine-Tuned BERT
+  url: "https://github.com/dancingninjas1/Sentiment-Analysis-imdb"
+  description: <ul class="resume-item-list"><li>Developed and implemented a sentiment analysis project using the BERT architecture, fine-tuned on a sentiment analysis dataset. The goal of the project was to classify text into positive or negative sentiment categories.</li><li>The trained sentiment analysis model is hosted on the Hugging Face Model Hub, ensuring easy access and integration for future projects and collaborations.</li><li>Designed and deployed a user-friendly Streamlit web application, allowing users to perform sentiment analysis interactively.</li><li>App: https://huggingface.co/spaces/dancingninjas/sentiment-analysis-nlp</li></ul>
+
+  
 - project: Image Classification on MNIST Dataset
   description: <ul class="resume-item-list"><li> Developed and implemented a robust PyTorch-based deep learning model with a CNN architecture to accurately classify handwritten digits from the MNIST dataset.</li><li> Demonstrated proficiency in Python, deep learning principles, and the PyTorch framework.</li>
 
