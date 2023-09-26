@@ -21,7 +21,7 @@
 
 - project: Sentiment-Analysis-imdb with Fine-Tuned BERT
   url: "https://github.com/dancingninjas1/Sentiment-Analysis-imdb"
-  description: <ul class="resume-item-list"><li>Developed and implemented a sentiment analysis project using the BERT architecture, fine-tuned on a sentiment analysis dataset. The goal of the project was to classify text into positive or negative sentiment categories.</li><li>The trained sentiment analysis model is hosted on the Hugging Face Model Hub, ensuring easy access and integration for future projects and collaborations.</li><li>Designed and deployed a user-friendly Streamlit web application, allowing users to perform sentiment analysis interactively.</li><li>App: https://huggingface.co/spaces/dancingninjas/sentiment-analysis-nlp</li></ul>
+  description: <ul class="resume-item-list"><li>Developed and implemented a sentiment analysis project using the BERT architecture, fine-tuned on a sentiment analysis dataset. The goal of the project was to classify text into positive or negative sentiment categories.</li><li>The trained sentiment analysis model is hosted on the Hugging Face Model Hub, ensuring easy access and integration for future projects and collaborations.</li><li>Designed and deployed a user-friendly Streamlit web application, allowing users to perform sentiment analysis interactively.</li></ul>
 
   
 - project: Image Classification on MNIST Dataset
