@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "apurvid@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Motivated software engineer with 3+ years of experience delivering cutting-edge solutions in cross-functional teams. Currently pursuing a Master's degree in Artificial Intelligence from Queen Mary University of London. Seeking an AI software engineer role to leverage my expertise in AI and deep learning models, contributing to your organization's AI milestones. Proficient in PyTorch, TensorFlow, Java, C++, Python, and familiar with AWS services. Passionate about pushing AI boundaries for real-world impact and innovation.</p>"
+resume_header_intro: "<p>Motivated AI Engineer with 3+ years of experience delivering cutting-edge solutions in cross-functional teams. Master's degree in Artificial Intelligence from Queen Mary University of London. Seeking an AI software engineer role to leverage my expertise in AI and deep learning models, contributing to your organization's AI milestones. Proficient in PyTorch, TensorFlow, Java, Python, With an expertise in Fine-tuning models for your use case. Passionate about pushing AI boundaries for real-world impact and innovation.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
